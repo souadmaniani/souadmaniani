@@ -15,9 +15,9 @@
 
 **Languages and Tools:**  
 
-![](/icons/c.png) | height=20
+<!-- ![](/icons/c.png) | height=20
 ![](/icons/cplusplus.png) | height=20
 ![](/icons/python.png) | height=20
 ![](/icons/js.png) | height=20
 ![](/icons/react.png) | height=20
-![](/icons/docker.png) | height=20
+![](/icons/docker.png) | height=20 -->
