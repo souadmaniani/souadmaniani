@@ -9,15 +9,15 @@
 - 🔭 I’m currently working on mobile shopping app.
 - 🌱 I’m currently learning more about React Native.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/souadmaniani/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/souadmaniani/), [Twitter](https://twitter.com/ManianiSouad), [Facebook](https://web.facebook.com/souad.maniani.3/).
 - ⚡ Fun fact: I spend time watching dance videos on jerusalima song 🤣
 
 
 **Languages and Tools:**  
 
-<!-- ![](/icons/c.png) | height=20
-![](/icons/cplusplus.png) | height=20
-![](/icons/python.png) | height=20
-![](/icons/js.png) | height=20
-![](/icons/react.png) | height=20
-![](/icons/docker.png) | height=20 -->
+<code><img src="/icons/c.jpg" height="20"></code>
+<code><img src="/icons/cplusplus.png" height="20"></code>
+<code><img src="/icons/python.png" height="20"></code>
+<code><img src="/icons/js.png" height="20"></code>
+<code><img src="/icons/react.png" height="20"></code>
+<code><img src="/icons/docker.png" height="20"></code>
