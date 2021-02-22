@@ -1,4 +1,4 @@
- ##  Hola 👋, I'm Souad Maniani
+ ##  Hola 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=souadmaniani.souadmaniani)
 
