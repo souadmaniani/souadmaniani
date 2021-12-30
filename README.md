@@ -7,7 +7,6 @@
 ##  👩🏻‍🎓 Iam a computer science student at 1337 coding school
 
 - 🔭 I’m currently working on everything.
-- 🌱 I’m currently learning more about React Native.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/souadmaniani/), [Twitter](https://twitter.com/ManianiSouad), [Facebook](https://web.facebook.com/souad.maniani.3/).
 - ⚡ Fun fact: I spend time watching dance videos on jerusalima song 🤣
